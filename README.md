@@ -6,3 +6,4 @@ This repository is built step by step in the tutorial.
 Line is added.
 Another line added.
 Line added in skeleton branch.
+Line added in local for new branch.
